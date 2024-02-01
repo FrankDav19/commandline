@@ -12,7 +12,7 @@ int main( int argc, char *argv[] )
    else if( argc < 2 )
    {
       printf("One argument expected.\n");
-      return(-1);
+      return(-1)
    }
    else {
       printf("Too many arguments supplied.\n");
